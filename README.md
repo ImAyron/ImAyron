@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayron-luigi-873317193/)](https://www.linkedin.com/in/ayron-luigi-873317193/)
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=im&theme=default)](https://github.com/ImAyron)
+[![card](https://github-readme-stats.vercel.app/api?username=imAyron&theme=default)](https://github.com/ImAyron)
 
 
 ### About me
