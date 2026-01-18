@@ -1,22 +1,58 @@
-# Hi, I'm Ayron! 😄🎸
+<div align="center">
+
+# Olá, eu sou o Ayron! 👋 😄🎸
+
+### Desenvolvedor & Pesquisador em Bioinformática
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ImAyron)](https://github.com/ImAyron)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayron-luigi-873317193/)](https://www.linkedin.com/in/ayron-luigi-873317193/)
 
+</div>
 
-[![card](https://github-readme-stats.vercel.app/api?username=imAyron&theme=Radical)](https://github.com/ImAyron)
+---
 
+### 🧬 Sobre Mim
 
-## 🚀 Minhas Skills
+Sou um entusiasta da união entre tecnologia e biologia. Atualmente, sou mestrando e pesquisador com foco em **Bioinformática** e **Biotecnologia**.
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
+- 🔭 **Atualmente trabalhando em:** Análise genética de exomas e Machine Learning aplicado a variantes do autismo.
+- 💼 **Experiência:** Pesquisador no projeto Compete Minas (Spectrum Biotecnologia).
+- 📚 **Autor:** Escrevi o livro *"BIOTECMAGICIAN: Computation & Microbial Biotech"*.
+- 💻 **Interesses:** Python, Laravel, React Native e Nanotecnologia.
+
+---
+
+### 🚀 Tech Stack
+
+Organizei minhas ferramentas principais por área de atuação:
+
+#### 💻 Linguagens
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+</div>
+
+#### 🌐 Web & Frameworks
+<div style="display: inline_block"><br>
+  <img align="center" alt="Laravel" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
+  <img align="center" alt="Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+</div>
+
+#### 🗄️ Banco de Dados
+<div style="display: inline_block"><br>
+  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</div>
+
+---
+
+<div align="center">
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=imAyron&theme=Radical&show_icons=true&hide_border=true)](https://github.com/ImAyron)
+
+</div>
