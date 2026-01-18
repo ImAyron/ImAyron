@@ -53,6 +53,6 @@ Organizei minhas ferramentas principais por área de atuação:
 
 <div align="center">
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=imAyron&theme=Radical&show_icons=true&hide_border=true)](https://github.com/ImAyron)
+
 
 </div>
