@@ -16,7 +16,6 @@
 Sou um entusiasta da união entre tecnologia e biologia. Atualmente, sou mestrando e pesquisador com foco em **Bioinformática** e **Biotecnologia**.
 
 - 🔭 **Atualmente trabalhando em:** Análise genética de exomas e Machine Learning aplicado a variantes do autismo.
-- 💼 **Experiência:** Pesquisador no projeto Compete Minas (Spectrum Biotecnologia).
 - 💻 **Interesses:** Python, Laravel, React Native e Nanotecnologia.
 
 ---
