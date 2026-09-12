@@ -1,101 +1,149 @@
 <div align="center">
 
-# Olá, eu sou o Ayron! 👋
+# Ayron Luigi de Paiva
 
-### 🧬 Bioinformata & Desenvolvedor Full-Stack
+### Bioinformata & Engenheiro de Software
 
-**Mestrando em Biotecnologia (UFOP)** · Pesquisador em Genômica · Machine Learning aplicado ao autismo (TEA)
+**Dados brutos, respostas úteis.**
+
+Construo os pipelines que ficam entre o sequenciamento e a decisão que alguém precisa tomar.
+
+📍 Ouro Preto, MG · UFOP · PPGBiotec
 
 <p>
   <a href="https://www.linkedin.com/in/ayron-luigi-873317193/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ImAyron">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="mailto:ayronpaiva@outlook.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ImAyron&style=for-the-badge&color=0A66C2&label=Visitas+no+perfil" alt="Profile views"/>
 </p>
 
 </div>
 
 ---
 
-### 👨‍🔬 Sobre Mim
+### Quem eu sou
 
-Uno **tecnologia e biologia** para transformar dados genômicos em conhecimento. Desenvolvo pipelines de análise genética e aplico *Machine Learning* na investigação de variantes, trazendo comigo uma sólida bagagem em desenvolvimento full-stack.
+Engenheiro de Computação pela UFOP, hoje mestrando em Biotecnologia e pesquisador em imunoinformática. Vim da engenharia para a biologia, e é essa travessia que define o meu trabalho: trago arquitetura de sistemas, APIs e bancos de dados para um campo que costuma carecer disso.
 
-- 🎓 **Formação:** Mestrado em Biotecnologia com ênfase em Bioinformática — UFOP (2025–2027)
-- 🌱 **Explorando:** Nanotecnologia e aprofundamento em ML para dados genômicos
-- 🗣️ **Idiomas:** Português (nativo) · Inglês e Espanhol (intermediário)
-- 📫 **Contato:** ayronpaiva@outlook.com
+Predição de epítopos, triagem por conservação, topologia de membrana, priorização de variantes — e a engenharia que faz tudo isso rodar de novo amanhã, com o mesmo resultado. Sem etapa manual escondida. Sem resultado que ninguém consegue reproduzir.
 
----
-
-### 🚀 Tech Stack
-
-#### 💻 Linguagens
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-</p>
-
-#### 🧬 Bioinformática, Dados & ML
-<p>
-  <img alt="GATK" src="https://img.shields.io/badge/GATK-1E88E5?style=flat-square&logo=dna&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
-
-#### 🌐 Web & Frameworks
-<p>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-#### 🗄️ Banco de Dados & Ferramentas
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
+Já coordenei projeto de pesquisa na graduação, implantei sistema RFID em hospital, apresentei pôster como autor principal em simpósio nacional e hoje construo plataforma de rastreabilidade ambiental que roda offline no meio do mato.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### O que eu faço
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ImAyron&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAyron&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas"/>
-</div>
+| | |
+|---|---|
+| **Imunoinformática** | Predição e triagem de epítopos, conservação entre espécies e topologia de membrana para desenho de antígenos. |
+| **Genômica clínica** | Pipelines de exoma completo: chamada e priorização de variantes, anotação funcional e relatório reprodutível. |
+| **Engenharia de dados** | Bancos, APIs e camadas geoespaciais que transformam planilha e foto de campo em registro auditável. |
+| **Sistemas em campo** | Aplicações móveis com sincronização offline e rastreamento por RFID, para onde não há sinal nem margem para erro. |
+| **Sob medida** | Se o problema não cabe em nenhuma caixa acima, provavelmente é o tipo de coisa que me interessa. |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImAyron&hide_border=true&theme=tokyonight" alt="Sequência de contribuições"/>
-</div>
+Não trabalho com uma stack fixa. Adapto ao que o problema exige.
+
+---
+
+### Projetos
+
+| Projeto | Período | |
+|---|---|---|
+| **[POA — Pipeline de Otimização de Antígenos](https://github.com/ImAyron/POA_Project)** | 2026 — | Em desenvolvimento |
+| **[Gestmi — Gestão de ativos hospitalares por RFID](https://github.com/ImAyron/Gestmi_RFID)** | 2021 — 2025 | Concluído |
+| **[Referências IX SNNB](https://github.com/ImAyron/Referencias-IXNN-SNNB)** | 2026 | Pôster |
+| **[Reconhecimento de padrões](https://github.com/ImAyron/reconhecimento_padroes)** | 2026 | Acadêmico |
+| **[Turismo São Gonçalo do Rio Abaixo](https://github.com/ImAyron/processoseletivoif)** | 2026 | Concluído |
+| **[Compilador — Trabalho Prático](https://github.com/ImAyron/TP_Compiladores_Final_2)** | — | Concluído |
+
+Pipeline integrado de exoma clínico no TEA e priorização automatizada de variantes seguem em desenvolvimento em repositórios privados.
+
+---
+
+### Onde estou
+
+**Pesquisador em Bioinformática** · LABIS · UFOP · *2025 — atual*
+Linha de imunoinformática sob coordenação do Dr. Breno Mello: predição e triagem de epítopos para desenho de antígenos vacinais.
+`Python` `Biopython` `IEDB` `Linux`
+
+**Engenheiro de Software** · Limbo Florestal · *mai 2026 — atual*
+Plataforma de rastreabilidade ambiental para resgate de germoplasma e restauração florestal no corredor da BR-116/MG. Segue cada indivíduo vegetal do censo em campo até o viveiro, o transplantio e o monitoramento — dentro dos marcos do SINAFLOR, MMA 148/2022, CITES e CNCFlora.
+`React Native` `Expo` `WatermelonDB` `NestJS` `PostgreSQL` `PostGIS` `Python`
+
+<details>
+<summary><b>Trajetória anterior</b></summary>
+
+<br>
+
+**Desenvolvedor de Software** · Autônomo · *abr 2019 — nov 2024*
+Cinco anos e meio de full-stack para web. Entre as entregas: o Gestmi, sistema de gestão de ativos por RFID, e o CRM DOTLEAD, plataforma de marketing para a Evomarketing.
+
+**Bolsista de Iniciação Científica** · Fapemig · *out 2021 — out 2024*
+Três anos no desenvolvimento do sistema de gestão de enxoval hospitalar por RFID — rastreamento de ativos, redução de extravios e ganho de eficiência logística.
+
+**Estagiário de Pesquisa e Desenvolvimento** · Hospital Margarida · *2022 — 2024*
+Sistema Integrado em Laravel para gestão de tags RFID: controle de acesso, rastreamento de inventário e gestão de ativos em tempo real, com API RESTful de integração.
+
+**Professor e Coordenador do Curso Técnico de Informática** · E. E. Luiz Prisco de Braga · *jul 2023 — jun 2024*
+Linguagens de Programação e Desenvolvimento Web, somadas à coordenação do curso. Professor homenageado pela turma.
+
+</details>
+
+---
+
+### Produção
+
+- **Pôster** · *An Integrated and Low-Cost Bioinformatics Pipeline for Clinical Whole-Exome Analysis Applied to Autism Spectrum Disorder* — IX Simpósio Norte-Nordeste de Bioinformática, UFRN (2026) · autor principal
+- **Organização** · I Simpósio de Genética em Autismo da Região dos Inconfidentes (2025)
+- **Monografia** · *Informatização do processo de controle de enxoval de um hospital filantrópico de médio porte* — Engenharia de Computação, ICEA/UFOP (2025)
+- **Participação** · XXVI Simpósio Brasileiro de Computação Aplicada à Saúde, SBCAS (2026) · The MedTech Conference, Toronto (2024)
+
+---
+
+### Formação
+
+**Mestrado em Biotecnologia** — PPGBiotec/UFOP · *2025 — atual*
+Linha de bioinformática aplicada à genética · Orientação: Dr. Breno Mello
+
+**Engenharia de Computação** — ICEA/UFOP · *2019 — 2025*
+TCC em informatização hospitalar com RFID
+
+---
+
+### Ferramentas
+
+**Linguagens**
+`Python` `R` `TypeScript` `JavaScript` `PHP` `Java` `C` `C++` `SQL`
+
+**Imunoinformática**
+`BepiPred` `NetCTL` `MHC-II Binding` `IEDB Conservancy` `pyTMHMM` `Biopython`
+
+**Genômica & ML**
+`GATK` `NGS` `scikit-learn` `pandas` `NumPy` `SciPy` `Jupyter` `Power BI`
+
+**Web & Mobile**
+`NestJS` `Laravel` `React` `React Native` `Expo` `Node.js` `.NET` `Bootstrap`
+
+**Dados & Geoespacial**
+`PostgreSQL` `PostGIS` `MySQL` `SQLite` `WatermelonDB`
+
+**Infraestrutura**
+`Docker` `Linux` `Git`
+
+---
+
+### Idiomas
+
+Português — nativo · Inglês — bom domínio · Espanhol — bom domínio
 
 ---
 
 <div align="center">
-  <i>⚡ Da linha de comando ao código genético — decodificando problemas com dados.</i>
+
+*Construído para durar, não para impressionar.*
+
+**[ayronpaiva@outlook.com](mailto:ayronpaiva@outlook.com)**
+
 </div>
