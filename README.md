@@ -34,7 +34,7 @@ Engenheiro de Computação pela UFOP, hoje mestrando em Biotecnologia e pesquisa
 
 Predição de epítopos, triagem por conservação, topologia de membrana, priorização de variantes — e a engenharia que faz tudo isso rodar de novo amanhã, com o mesmo resultado. Sem etapa manual escondida. Sem resultado que ninguém consegue reproduzir.
 
-Já coordenei projeto de pesquisa na graduação, implantei sistema RFID em hospital, apresentei pôster como autor principal em simpósio nacional e hoje construo plataforma de rastreabilidade ambiental que roda offline no meio do mato.
+Já participei de projeto de pesquisa na graduação, implantei sistema RFID em hospital, apresentei pôster como autor principal em simpósio nacional e hoje construo plataforma de rastreabilidade ambiental que roda offline no meio do mato.
 
 ---
 
