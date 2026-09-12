@@ -25,9 +25,8 @@
 
 ### 👨‍🔬 Sobre Mim
 
-Uno **tecnologia e biologia** para transformar dados genômicos em conhecimento. Desenvolvo pipelines de análise genética e aplico *Machine Learning* na investigação de variantes associadas ao Transtorno do Espectro Autista (TEA), trazendo comigo uma sólida bagagem em desenvolvimento full-stack.
+Uno **tecnologia e biologia** para transformar dados genômicos em conhecimento. Desenvolvo pipelines de análise genética e aplico *Machine Learning* na investigação de variantes, trazendo comigo uma sólida bagagem em desenvolvimento full-stack.
 
-- 🔬 **Pesquisa:** Pipelines de sequenciamento de exoma completo (WES) 
 - 🎓 **Formação:** Mestrado em Biotecnologia com ênfase em Bioinformática — UFOP (2025–2027)
 - 🌱 **Explorando:** Nanotecnologia e aprofundamento em ML para dados genômicos
 - 🗣️ **Idiomas:** Português (nativo) · Inglês e Espanhol (intermediário)
